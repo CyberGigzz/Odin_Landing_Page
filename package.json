@@ -1,0 +1,14 @@
+{
+  "name": "odin_landing_page",
+  "version": "1.0.0",
+  "description": "Landing Project",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Giga",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
